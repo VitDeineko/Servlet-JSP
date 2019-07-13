@@ -1,0 +1,63 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>information</title>
+        <style type="text/css">
+            div {
+                height: 1200px;
+                width: 1850px;
+                overflow: auto;
+                background: #DAA520;
+                border-style: solid;
+                border-image-width: 15px;
+                border-image-source: url(border_round.png);
+                border-image-slice: 30;
+                border-image-repeat: stretch;
+                border-radius: 10px/20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div ALIGN="CENTER">
+            <p><img src="second.png" alt="photo"</p>
+
+            <h3>Sports company PUMA and AC Milan present the new home kit, which takes inspiration from one of the club's most successful years to celebrate the Rossoneri's 120th anniversary. The 2019/20 AC Milan Home kit celebrates the successes of 1969, with a bold and elegant design that honors the game-changing style of play the club demonstrated 50 years ago.
+
+                In 1969, AC Milan took centre stage in global football by winning their second European Cup in Madrid in May, before being crowned Intercontinental Cup champions in October. In the same year, for his personal performances, club icon Gianni Rivera won the Ballon d'Or award, becoming the first of six Rossoneri winners of the coveted prize.
+
+                The design features classic narrow Rossoneri stripes, and a black round collar for a modern interpretation of the classic 1960s AC Milan kit. The jersey features PUMA's dryCELL technology, a moisture-controlling technology that is incorporated into the material to draw sweat away from the skin to the surface, ensuring a dry interface on the body even during strenuous exercise.
+
+                The new shirt made its on-pitch debut on May 19 during the club's final Serie A home fixture at the San Siro.
+
+                The home shirt is available all PUMA stores, AC Milan official stores (Casa Milan Store, Milan Store Galleria San Carlo, San Siro Store), sports retailers, puma.com, and store.milan.com.
+
+                <h3><em>The San Siro Stadium</h3></em> <h3>(named after a Saint to whom was dedicated a little Church nearby) has been a gift from AC Milan president Piero Pirelli (whose presidency lasted from 1909 for 20 years) to “his” city of Milan. The new stadium was built in just thirteen and a half months, thanks to the work of 120 skilled builders. The stadium cost around 5 million Italian Lira. The architects signing the project were Stacchini (who designed also Milan Central Station) and Cugini.</h3>
+                <p><img src="News-interna.jpg" alt="photo"</p>
+                <h3><em>The inauguration</h3></em>
+                <h3>The “first” San Siro was a typical English-style stadium, with four stands that could host 35 thousand people. The inauguration (19 September 1926) saw a friendly Derby. The first championship match was played on October, 6th (AC Milan vs Sampierdarenese 1-2), while the first international match was played on February, 20th 1927 (Italy vs Czechoslovakia 2-2). San Siro was the home only of AC Milan until season 1947/48; FC Inter used to play its home matches at Napoleonic Arena. “La Scala” of football has undergone many restorations, to become today’s majestic monument.</h3>
+
+
+                <p><img src="News-interna-2.jpg" alt="photo"</p>
+                <h3><em>The first improvement</h3></em>
+                <h3> In 1935 AC Milan sold the stadium to the City of Milan that, three years later, decided to enlarge it. Football was becoming a mass phenomenon and San Siro needed to be prepared. The project – designed by architect Rocca and engineer Calzolari – exploited the existing structures supporting an overhang terraces system and a series of external access ramps. The original capacity of 150 thousand seats was reduced to slightly less than 100 thousand in 1952. The inauguration of the newly improved stadium – the improvement works ended in 1939 with an expenditure of 5,100,00 Italian Lira – was on May, 13 1939 with a match between Italy and England (2-2) that earned 1,200,000 Italian Lira.</h3>
+
+                <h3><em>The second renewal</h3></em>
+                <h3>In 1954 the works for the second enlargement started and were completed twelve months later, with the inauguration on October 26th, 1955: San Siro’s capacity was extended to 85 thousand seats. The first lighting system was put in place in 1957. In 1967, instead, the first electronic scoreboard was installed. In 1979 the lighting system was replaced with a newer one, and the second tier was renovated. On March, 3rd 1980, with a plaque set at the main entrance, the Stadium was named after Giuseppe Meazza, unforgotten champion that played for both AC Milan and FC Inter, and who passed away the year before. In 1986 the first tier’s seats were numbered with coloured seats: red for the central stand, orange for the opposite stand, green under the north stand and blue for AC Milan fan’s stands.</h3>
+                <p><img src="News-interna-3.jpg" alt="photo"</p>
+                <h3><em> The third tier</h3></em>
+                <h3>On the occasion of 1990 World Cup, the City of Milan decided to start the renovation of the “Meazza” stadium, abandoning the idea of building a brand new stadium due to high costs and strict timetable. The first idea was to design a futuristic and architecturally astonishing solution: building the third tier and cover all seating places. The project, signed by architect Giancarlo Ragazzi, architect Enrico Hoffer and engineer Leo Finzi requires an autonomous support for the third tier, located around the existing Stadium. Eleven towers were built with reinforced concrete giving access to the terraces, four of which give support to the reticular beam for the roofing. For an increased comfort, all seats installed are ergonomic, numbered and coloured differently for each of the Stadium sections. The 85,700 seats are all built with a polycarbonate sheet, guaranteeing more comfort for the fans. A new lighting system as well as a heating system for the pitch, to keep the temperature controlled and avoid ice formation, were installed. On June, 8th 1990 the Stadium hosts the inauguration match of the FIFA World Cup Argentina vs Cameron. Since then, Milan’s “Temple of football” hosted, and still hosts, every Sunday, thousands of fans’ passion. In summer 2008, after a renovation to fulfil UEFA standards, the capacity of the San Siro stadium was reduced to 80,018 seats.</h3>
+
+
+
+                <h3><em>Numbers</h3></em>
+                <h3>To build the San Siro the builders used one thousand tonnes of concrete, 3,500 cubic meters of sand and 150 tonnes of reinforced steel. 80 kilos of chalk were used to mark the pitch lines. The pitch is 105 meters long and 68 meters wide. The stadium’s perimeter beams are 204 and 296 meters long respectively and weight 1,100 and 2,000 tonnes each. On the roofing, there are 256 projectors that work with halide vapours lamps at 3,500 watts. To carry out the main renovation works, two cranes 64 meters height were specially built. Inside those cranes, there were an emergency ladder and a lift with a payload of 1,000 kilos. San Siro stadium is located next to Milan’s hippodrome and is about 6 kilometres from city centre.</h3>
+
+                <h3><em>Not just football</h3></em>
+                <h3>The San Siro stadium, nowadays one of Milan’s symbol like La Scala and the Duomo and is also famous for having hosted numerous historical events. For example: the boxing match between Duilio Loi and Carlos Ortis (September, 1st 1960), the re-match for the junior welterweight world title. There were 53,043 supporters, 8 thousand at ringside. That match, won by the Italian boxer, earned 130 million Italian Lira. The stadium hosted also many concerts. For example, Bob Marley’s (June, 27th 1980) who, standing beneath the north stand, played on the one and only Italian date of the tour. For the occasion, there was a Derby audience: 90 thousand people. The same happened for another rock star, Bruce Springsteen (1985). The red stand has also hosted an open-air disco. Today, underneath the south stand, a museum is open to live a century of AC Milan and FC Inter thanks to the memorabilia of the celebrities that wrote the historical pages of San Siro. During the football season, the Stadium is visited throughout the day by enthusiastic people. Since July, 1st 2000, the Stadium is managed by AC Milan and FC Inter jointly.</h3></h3></div>
+
+
+    </body>
+</html>
