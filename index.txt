@@ -1,0 +1,45 @@
+<%-- 
+    Document   : index
+    Created on : 31.03.2019, 19:33:00
+    Author     : Vitaliy
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+        <style type="text/css">
+            table {
+                padding: 10px 30px;
+                margin: 10px 20px;
+                background: #DAA520;
+                color: #DAA520;
+                margin: 0 auto;
+            }
+            td {
+                background: #B22222;
+            }
+        </style>
+    </head>
+    <body background="ac-milan-logo-art-serie-a-soccer-besthqwallpapers.com-1920x1080.jpg">
+
+    <caption><em><strong><font color="FF0000" size="5"><center><h3>Welcome to the FC Milan website!</h3></center></font></strong></em></caption>
+
+    <form method="GET" action="welcome.jsp">
+        <table bgcolor="#B22222" width="400" border="5" bordercolor="#DAA520"  cellspacing="40" cellpaddind="50%">
+            <h3><tr><td>username :
+                <input type="text" id="txtLogin" name="txtLogin" ></h3>
+                <%--   type="button" --%>
+            <h3><tr><td>password :
+                <input type="text" id="txtPassword" name="txtPassword" ></h3>
+                <%--   type="button" --%>
+            <input size="10" type="Submit" value="Enter">
+            <input size="10" type="reset" value="Clear"></table>
+
+        <div align="center"><p><img class="center" src="first.png" alt="photo"</p></div>
+
+    </form>
+</body>
+</html>
